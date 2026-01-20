@@ -5,3 +5,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/kanuj2851-stack/git-commands.git
 git push -u origin main
+commands for pushing the code /file second time
+git add .
+git commit -m "cummit msg"
+git push
