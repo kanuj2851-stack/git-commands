@@ -9,3 +9,9 @@ commands for pushing the code /file second time
 git add .
 git commit -m "cummit msg"
 git push
+
+extra commands
+git branch- ;it will use to find list of branches
+git branch <branchname>; use to create new branch
+git checkout <branchname>;use to switch another branch
+git branch -d <branchname>,use to delete branches
