@@ -3,4 +3,11 @@ static webhosting through nginx
 static webhosting through apache
 static hosting using elastic ip and hibernation
 server backup using snapshot
-mounting
+mounting new volume to existing server using ebs
+security group "Allowed specific ip address using sg and ui using user data"
+IAM create individual user,group,policies and attaches it.
+cloud watch"attaching monitring for an instance and attach snapshot
+3 tier mern project using cloud front ,s3,ec2,security group.
+auto scalling/load balancer; distributed  traffic to multiple different servers
+rds; 2 tier NODE /EJS project using RDS,MYSQL,SQL ELECTRON,
+git and github;branching,pr,merging,fork,static application
