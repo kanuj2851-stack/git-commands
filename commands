@@ -20,4 +20,4 @@ git merge<branchname>;to merge
 git log;to check call log and description
 git log --summary
 git log --oneline --summary
-git log --summary --stat;summary stats
+git log --summary --stat;summary stat
